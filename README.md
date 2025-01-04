@@ -1,7 +1,7 @@
 # SMS Spam Detection
 
 ## Overview
-SMS Spam Detection is a machine learning model that takes an SMS as input and predicts whether the message is a spam or not spam message. The model is built using Python and deployed on the web using Streamlit.
+This project implements an SMS spam detection system using Natural Language Processing (NLP) techniques. The goal is to classify SMS messages as either spam or ham (not spam), providing a robust solution for filtering unwanted messages.
 
 ## Technology Used
 - Python
@@ -33,8 +33,6 @@ Multiple classifier models were tried, including NaiveBayes, random forest, KNN,
 ### Web Deployment
 The model was deployed on the web using Streamlit. The user interface has a simple input box where the user can input a message, and the model will predict whether it is spam or not spam.
 
-## Demo
-To try out the SMS Spam Detection model, visit [here](https://textsafe.streamlit.app/).
 
 ## Usage
 To use the SMS Spam Detection model on your own machine, follow these steps:
@@ -52,5 +50,7 @@ streamlit run app.py.
 
 ## Contributions
 Contributions to this project are welcome. If you find any issues or have any suggestions for improvement, please open an issue or a pull request on this repository.
+Name = Samar raj
+Email = samarraj7836@gmail.com
 
 
